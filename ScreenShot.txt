@@ -1,0 +1,4 @@
+String path ="Excel sheet Path ";
+File src = ((TakesScreenShot)d).getScreenshotAs(OutputType.File);
+File file = new File(path);
+FileHandler.copy(src,file);

@@ -1,0 +1,5 @@
+#browser name :
+
+WebDriver d = new ChromeDriver();
+WebDriver d = new FirefoxDriver();
+

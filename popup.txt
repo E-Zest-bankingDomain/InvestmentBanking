@@ -1,0 +1,7 @@
+child pop up 
+Alert up pop 
+1: accept()
+Alert alert = d.SwtichTo().alert().accept();
+
+2: dissmiss(d)
+Alert alert = d.SwtichTo().alert().dissmiss().

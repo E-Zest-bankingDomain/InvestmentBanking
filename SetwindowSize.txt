@@ -1,0 +1,5 @@
+# set size of window 
+
+Dimension a = new Dimension(100, 100);
+
+d.manage().window().setSize(a);
